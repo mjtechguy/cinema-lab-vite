@@ -296,3 +296,5 @@ export type { LightningCSSOptions } from '#types/internal/lightningcssOptions'
 
 // Backward compatibility
 export type { ModuleGraph, ModuleNode } from './server/mixedModuleGraph'
+
+// lab: PR experiment 2026-10-21T10:35:09Z
